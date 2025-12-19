@@ -1,3 +1,5 @@
+# [v5.1.1] - 19-12-2025
+**Full Changelog**: https://github.com/asbjornu/html-proofer/compare/v5.1.0...v5.1.1
 # [v5.1.1] - 17-11-2025
 **Full Changelog**: https://github.com/gjtorikian/html-proofer/compare/v5.1.0...v5.1.1
 # [v5.1.0] - 03-11-2025
